@@ -25,3 +25,6 @@ Install firebase for my project
 ```
 ## login 
 ![Image Alt](https://github.com/nishitasinghhh/dd/blob/152461b666d09f852555c63b8b33a8e8bc1e05eb/Screenshot%202024-06-19%20at%202.22.22%20PM.png)
+
+##Create Post 
+![Image Alt](https://github.com/nishitasinghhh/dd/blob/914c1d93daf4281a75d458ac215f894cec0648d6/blog.png)
