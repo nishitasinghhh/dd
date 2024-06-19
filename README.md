@@ -28,3 +28,6 @@ Install firebase for my project
 
 ##Create Post 
 ![Image Alt](https://github.com/nishitasinghhh/dd/blob/914c1d93daf4281a75d458ac215f894cec0648d6/blog.png)
+
+##Home
+![Image Alt](https://github.com/nishitasinghhh/dd/blob/353d3845b4e3d578bdc5dbdd21c99ee85b1ba7f0/Screenshot%202024-06-19%20at%202.24.20%20PM.png)
